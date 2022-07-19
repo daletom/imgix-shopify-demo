@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-shopify-tailwind",
-  "author": "Baroshem",
+  "name": "imgix-shopify-demo",
+  "author": "daletom",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -12,6 +12,10 @@
     "nuxt": "3.0.0-rc.3"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.6.7",
+    "@heroicons/vue": "^1.0.6",
+    "@tailwindcss/aspect-ratio": "^0.4.0",
+    "@tailwindcss/forms": "^0.5.2",
     "nuxt-graphql-client": "^0.0.32"
   }
 }

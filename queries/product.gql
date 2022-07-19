@@ -6,7 +6,6 @@ query Product ($handle: String!) {
     priceRange {
       maxVariantPrice {
         amount
-        currencyCode
       }
     }
     description
